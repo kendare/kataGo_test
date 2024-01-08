@@ -1,0 +1,2 @@
+# kataGo_test
+ Calculator
